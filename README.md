@@ -12,8 +12,3 @@ The dataset used for this project, along with its detailed description, can be f
 
 3. Scaling of Data: The training and test data were scaled using the standard scaler. Scaling helps normalize the features and enhances the performance of the model.
 
-4. Purposeful Preprocessing: The main focus of the preprocessing steps was to convert categorical variables and perform scaling. Other preprocessing techniques were not applied in this project.
-
-5.   Accurate Diabetes Classification: By leveraging logistic regression and the preprocessing steps, the model can accurately predict the likelihood of an individual having diabetes based on a range of health-related factors.
-
-6. Proactive Healthcare: The combination of scikit-learn's logistic regression model and the preprocessing techniques allows for effective risk assessment and aids healthcare professionals in making proactive decisions for early intervention and improved patient care.
